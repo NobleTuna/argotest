@@ -1,0 +1,6 @@
+release:
+  date: 220726
+  version: test01
+namespace:
+  #intweb
+  intweb: web
